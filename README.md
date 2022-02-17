@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NJValin
 - Student at the University of Ottawa
 - Computer Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- neilvalin1@gmail.com
+- LinkedIn: [Neil Valin](https://www.linkedin.com/in/neil-valin-ab12a8205/)
+- 
 
 <!---
 NJValin/NJValin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
